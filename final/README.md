@@ -12,8 +12,10 @@ For more details and context of the project, read the introduction in the report
 From the "final" directory, open the command line interface and launch the
 app:
 
+```bash
 $ Rscript -e 'library(methods); shiny::runApp("dist_shinyapp/",
 launch.browser = TRUE)'
+```
 
 This will open the app in the default browser.
 
@@ -22,8 +24,10 @@ This will open the app in the default browser.
 From the "final" directory, open the command line interface and launch the
 app:
 
+```bash
 $ Rscript -e 'library(methods); shiny::runApp("per_shinyapp/",
 launch.browser = TRUE)'
+```
 
 This will open the app in the default browser.
 
