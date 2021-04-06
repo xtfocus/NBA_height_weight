@@ -1,8 +1,9 @@
 I proposed the NBA height and weight topic for the final assessment of the Data Visualization unit in Monash.
 
-This school project includes:
-- crawling data from sports websites and synthesizing data
-- two interactive Shiny apps that also support on the fly t-tests
+This school project demonstrated my ability to:
+- crawl data from sports websites and synthesize data
+- clean data
+- create two interactive Shiny apps that also support on the fly t-tests
 
 For more details and context of the project, read the introduction in the report pdf.
 
